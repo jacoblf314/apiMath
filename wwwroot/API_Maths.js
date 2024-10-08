@@ -1,6 +1,6 @@
 class MathsAPI {
     static API_URL() {
-        return "http://localhost:5000/api/maths";
+        return "https://peppermint-emerald-plane.glitch.me/api/maths";
     }
 
     static async runTests() {
